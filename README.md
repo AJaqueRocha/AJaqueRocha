@@ -1,16 +1,36 @@
-### Hi there 👋
+</br>
 
-<!--
-**AJaqueRocha/AJaqueRocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="center" alt="JaquelineRocha" height="80em" width="700em" src="https://img.shields.io/badge/-Hello%2C%20I'm%20Jaqueline%20Rocha!-ff69b4">
 
-Here are some ideas to get you started:
+</br>
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Customer Success at [Umbler](https://www.umbler.com/br)
+
+- 📚 I'm studying Python and technologist Analysis and Systems Development
+
+- 🌷 Pronouns: she/her
+
+- 👽 About me: <div><a href="https://www.linkedin.com/in/jaquelinerochao/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
+
+</br>
+</br>
+
+
+<div>
+  <a href="https://github.com/AJaqueRocha">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AJaqueRocha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJaqueRocha&layout=compact&langs_count=16&theme=tokyonight"/>
+</div>
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Jaque-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Jaque-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Jaque-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Jaque-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
+  <img align="center" alt="Jaque-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
+ 
+##
+  
+  ![Snake animation](https://github.com/AJaqueRocha/AJaqueRocha/blob/output/github-contribution-grid-snake.svg)
