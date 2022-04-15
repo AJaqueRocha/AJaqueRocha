@@ -1,6 +1,6 @@
 </br>
 
-<img align="center" alt="JaquelineRocha" height="80em" width="700em" src="https://img.shields.io/badge/-Hello%2C%20I'm%20Jaqueline%20Rocha!-ff69b4">
+<p align="center"><img width="70%" src="./Jaqueline.png" /></p>
 
 </br>
 </br>
