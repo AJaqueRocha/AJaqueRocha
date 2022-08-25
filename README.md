@@ -7,7 +7,7 @@
 
 - 💻 Customer Success at [Umbler](https://www.umbler.com/br)
 
-- 📚 I'm studying Python and technologist Analysis and Systems Development
+- 📚 I'm studying Python and Analysis and Systems Development
 
 - 🌷 Pronouns: she/her
 
